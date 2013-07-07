@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2012\Projects\SudokuGenetic\SudokuGenetic\bin\Debug\SudokuGenetic.exe.config
+c:\users\adam\documents\visual studio 2012\Projects\SudokuGenetic\SudokuGenetic\bin\Debug\SudokuGenetic.exe
+c:\users\adam\documents\visual studio 2012\Projects\SudokuGenetic\SudokuGenetic\bin\Debug\SudokuGenetic.pdb
+c:\users\adam\documents\visual studio 2012\Projects\SudokuGenetic\SudokuGenetic\obj\Debug\SudokuGenetic.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2012\Projects\SudokuGenetic\SudokuGenetic\obj\Debug\SudokuGenetic.exe
+c:\users\adam\documents\visual studio 2012\Projects\SudokuGenetic\SudokuGenetic\obj\Debug\SudokuGenetic.pdb

@@ -1,0 +1,4 @@
+/media/adam/D648534048531E95/Users/adam/Documents/Visual Studio 2012/Projects/SudokuGenetic/SudokuGenetic/bin/Release/SudokuGenetic.exe.mdb
+/media/adam/D648534048531E95/Users/adam/Documents/Visual Studio 2012/Projects/SudokuGenetic/SudokuGenetic/bin/Release/SudokuGenetic.exe
+/media/adam/D648534048531E95/Users/adam/Documents/Visual Studio 2012/Projects/SudokuGenetic/SudokuGenetic/obj/Release/SudokuGenetic.exe
+/media/adam/D648534048531E95/Users/adam/Documents/Visual Studio 2012/Projects/SudokuGenetic/SudokuGenetic/obj/Release/SudokuGenetic.exe.mdb
